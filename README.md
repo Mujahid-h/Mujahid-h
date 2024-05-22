@@ -1,4 +1,4 @@
-![logo]("https://github.com/Mujahid-h/Mujahid-h/blob/main/banner.jpg")
+![logo](https://github.com/Mujahid-h/Mujahid-h/blob/main/banner.jpg)
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
